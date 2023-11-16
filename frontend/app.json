@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "react-native-health"
+    ],
+    "name": "frontend",
+    "slug": "frontend",
+    "ios": {
+      "bundleIdentifier": "com.thinkpanda.frontend"
+    }
+  }
+}
