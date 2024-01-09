@@ -1,2 +1,2 @@
 # TrojanFit
-Trojan Fit is an open source Virginia State University 
+Trojan Fit is an open source Virginia State University Fitness Tracker
